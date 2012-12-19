@@ -1,0 +1,26 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package Decorator;
+
+/**
+ *
+ * @author joshua
+ */
+public class AdministrativeManager extends ResponsibleWorker {
+
+    public AdministrativeManager(Employee empl) {
+        super(empl);
+    }
+
+    @Override
+    public void whoIs() {
+        sayIamBoss();
+        super.whoIs();
+    }
+
+    private void sayIamBoss() {
+        System.out.print("I am a boss. ");
+    }
+}
