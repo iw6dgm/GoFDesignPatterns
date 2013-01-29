@@ -1,6 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Based on http://it.wikipedia.org/wiki/Builder
  */
 package Builder.Wikipedia;
 

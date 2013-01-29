@@ -1,6 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Based on Effective Java 2
  */
 package Builder.EffectiveJava2;
 

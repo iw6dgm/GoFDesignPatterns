@@ -1,6 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Based on http://en.wikipedia.org/wiki/Factory_method_pattern
  */
 package FactoryMethod.Wikipedia;
 
